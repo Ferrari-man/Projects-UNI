@@ -1,6 +1,6 @@
 # Console Platformer Game
 
-A simple C++14 console-based platformer game. The player controls a hero character, navigating obstacles, enemies, and platforms to reach a friendly cat and win the game.
+A simple C++ console-based platformer game. The player controls a hero character, navigating obstacles, enemies, and platforms to reach a friendly cat and win the game.
 
 ## Features
 
